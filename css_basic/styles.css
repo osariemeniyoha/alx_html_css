@@ -33,3 +33,36 @@ header, footer {
   padding: 10px;
   text-align: center;
 }
+
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+article h2 {
+  color: #ff6600;
+  text-decoration: underline;
+}
+
+article p {
+  line-height: 1.6;
+}
+
+
+body {
+  background-color: #f5f5f5;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #fffefe;
+  color: white;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 2rem;
+  margin-right: 10px;
+}
