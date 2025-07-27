@@ -97,3 +97,51 @@
   font-size: 14px;
   color: #ffffffb0;
 }
+
+.quote-section {
+  background-color: #c271ff;
+  padding: 60px 0;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.quote-container {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  max-width: 1000px;
+  width: 90%;
+  padding: 0 20px;
+}
+
+.quote-img img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.quote-text {
+  max-width: 600px;
+}
+
+.quote-text blockquote {
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0 0 15px 0;
+}
+
+.quote-author h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.quote-author p {
+  margin: 0;
+  font-style: italic;
+  font-size: 14px;
+  color: #f5f5f5b0;
+}
